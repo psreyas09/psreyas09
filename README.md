@@ -26,8 +26,6 @@ I'm Sreyas
 
 - ⚖️ **LegalEase** – A chatbot for the Indian legal system (with API from Indian Kanoon)
 - 🦯 **GuideMate** – Smart AI-powered navigation stick for the visually impaired
-- 📱 **BusTrackr** – Android app to find live bus locations for your route
-- 🕸️ **Portfolio Website** – Clean, responsive, and 100% Batman-approved
 
 ---
 

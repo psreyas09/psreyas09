@@ -1,6 +1,6 @@
 # 🦇 Sreyas P
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:6c63ff&height=200&section=header&text=Hey%20there!%20I'm%20Batman!&fontSize=35&fontColor=ffffff)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,100:6c63ff&height=200&section=header&text=Hey%20there!%20I'm%20Sreyas!&fontSize=35&fontColor=ffffff)
 
 ## 💻 About Me
 

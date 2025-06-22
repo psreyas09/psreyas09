@@ -7,7 +7,7 @@
 I'm Sreyas 
 🎓 B.Tech CSE Student at LBS College of Engineering, Kasaragod  
 💡 I love building smart, purposeful tech 
-🐧 Linux enthusiast (Mint user gang!)  
+🐧 Linux enthusiast   
 🎯 My goal? To use tech for real-world impact.
 
 ---

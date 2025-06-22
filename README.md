@@ -39,7 +39,7 @@ I'm Sreyas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/psreyas09/)  
 📧 psreyas09@gmail.com  
-🌐 [My Portfolio] _(coming soon)_
+🌐 [My Portfolio] https://psreyas09.github.io/
 
 ---
 

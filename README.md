@@ -24,7 +24,7 @@ I'm Sreyas
 
 ## 🚀 Projects
 
-- ⚖️ **LegalEase** – A chatbot for the Indian legal system (with API from Indian Kanoon)
+- ⚖️ **Neethi** – A chatbot for the Indian legal system (with API from Indian Kanoon)
 - 🦯 **GuideMate** – Smart AI-powered navigation stick for the visually impaired
 
 ---

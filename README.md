@@ -1,8 +1,8 @@
 # Hi, I'm Sreyas 👋
 
-Second-year B.Tech CSE student at LBS College of Engineering, Kasaragod. I build practical software and embedded systems, mostly on Linux, and I care about things that end up being useful to real people.
+B.Tech CSE student . I build practical software and embedded systems, mostly on Linux, and I care about things that end up being useful to real people.
 
-- 🎓 B.Tech CSE, LBSCEK
+- 🎓 B.Tech CSE
 - 🐧 Daily-driving Fedora
 
 ---
@@ -38,6 +38,12 @@ Second-year B.Tech CSE student at LBS College of Engineering, Kasaragod. I build
 - Full-stack web development and shipping small tools that people actually use
 - Sensors, IoT, and the point where hardware meets software
 - Hackathons, competitions, and IEEE community work
+
+---
+
+## Contributions
+
+![GitHub contributions](https://ghchart.rshah.org/6c63ff/psreyas09)
 
 ---
 
